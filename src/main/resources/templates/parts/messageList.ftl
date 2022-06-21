@@ -9,7 +9,7 @@
             </#if>
             <div class="m-2">
                 <span>${message.text}</span><br/>
-                <i>${message.tag}</i>
+                <i>#${message.tag}</i>
             </div>
             <div class="card-footer text-muted container">
                 <div class="row">
